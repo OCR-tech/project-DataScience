@@ -6,7 +6,7 @@ This project demonstrates a machine learning pipeline for predicting the future 
 ## Objectives:
 - To predict the future sale price of bulldozers, given its characteristics and previous samples
 - To build and train a model using a random forest regressor with time-series data
-- To evaluate the model's performance using root mean squared log error (RMSLE) metric
+<!-- - To evaluate the model's performance using root mean squared log error (RMSLE) metric -->
 
 ## Data:
 The dataset is downloaded from Kaggle and contains information about bulldozer sales, including features such as year, make, model, and various specifications. (Link: https://www.kaggle.com/c/bluebook-for-bulldozers/data)
@@ -37,7 +37,7 @@ The dataset is downloaded from Kaggle and contains information about bulldozer s
 ## Usage:
 - Open in Colab
 - Run the notebook to execute the steps outlined in the project
-- Modify the code as needed to fit your specific use case or dataset
+<!-- - Modify the code as needed to fit your specific use case or dataset -->
 - Use the trained model to make predictions on new data
 - Extract feature importance to understand the factors influencing the sale price of bulldozers
 - Save the trained model for future use
@@ -47,14 +47,15 @@ The dataset is downloaded from Kaggle and contains information about bulldozer s
 - Insights into feature importance, helping to identify key factors influencing sale prices
 - A well-documented and structured project that can be used as a reference for similar machine learning projects
 
-![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png)
-
 <br>
+![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png)
+<br>
+
+<!-- <br>
 <div align="center">
     <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png" style="width:450px; height:auto; min-width:35%">
 </div>
-<br>
-
+<br> -->
 
 <!-- - The dataset is divided into training and validation sets, with the training set used to build the model and the validation set used to evaluate its performance.
 - The dataset is pre-processed to handle missing values, convert categorical variables into numerical representations, and extract relevant features for the model. -->
