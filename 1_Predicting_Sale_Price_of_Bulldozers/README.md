@@ -48,11 +48,9 @@ The dataset is downloaded from Kaggle and contains information about bulldozer s
 <!-- - A well-documented and structured project that can be used as a reference for similar machine learning projects -->
 <br>
 
-<center><p>Top of feature importance</p></center>
+<p style="text-align: center;">Top of feature importance</p>
 
 ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png)
-
-
 
 <!-- <br>
 <div align="center">
