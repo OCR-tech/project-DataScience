@@ -37,19 +37,20 @@ The dataset is downloaded from Kaggle and contains information about bulldozer s
 ## Usage:
 - Open in Colab
 - Run the notebook to execute the steps outlined in the project
-<!-- - Modify the code as needed to fit your specific use case or dataset -->
 - Use the trained model to make predictions on new data
 - Extract feature importance to understand the factors influencing the sale price of bulldozers
 - Save the trained model for future use
+<!-- - Modify the code as needed to fit your specific use case or dataset -->
 
 ## Outcomes:
 - A trained model capable of predicting bulldozer sale prices based on input features
 - Insights into feature importance, helping to identify key factors influencing sale prices
 - A well-documented and structured project that can be used as a reference for similar machine learning projects
+<br>
 
-<br>
 ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png)
-<br>
+
+
 
 <!-- <br>
 <div align="center">
