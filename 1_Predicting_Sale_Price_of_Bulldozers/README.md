@@ -44,12 +44,8 @@
 <br><br>
 
 <p align="center"><b>Top of feature importance</b></p>
-
-![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png)
-<br>
-
-<!-- <br>
 <div align="center">
-    <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png" style="width:450px; height:auto; min-width:35%">
+  <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png"/>
 </div>
-<br> -->
+<!-- ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png) -->
+<br>

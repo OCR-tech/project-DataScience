@@ -37,6 +37,7 @@
 <br><br>
 
 <p align="center"><b>Prediction the dog breed with prediction probabilities</b></p>
-
-![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds2a.png)
+<div align="center">
+  <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds2a.png"/>
+</div>
 <br>
