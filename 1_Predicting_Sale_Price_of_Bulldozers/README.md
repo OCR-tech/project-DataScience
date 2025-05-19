@@ -1,7 +1,7 @@
 # Project 1: Predicting the Sale Price of Bulldozer
 
 ## Objectives:
-- To predict the future sale price of bulldozers, given its characteristics and previous samples
+- To predict the sale price of bulldozers, given its characteristics and previous samples
 - To build and train a model using a random forest regressor with time-series data
 - To tune hyperparameters using RandomizedSearchCV
 <!-- - To evaluate the model's performance using root mean squared log error (RMSLE) metric -->
