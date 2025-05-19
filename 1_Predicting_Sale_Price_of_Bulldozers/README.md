@@ -29,14 +29,14 @@
     - Extract Feature Importance
 
 ## Usages:
-- Open in Colab and run the [code](https://colab.research.google.com/github/OCR-tech/project-DataScience/blob/main/1_Predicting_Sale_Price_of_Bulldozers/notebook.ipynb)
+- Open [notebook](https://colab.research.google.com/github/OCR-tech/project-DataScience/blob/main/1_Predicting_Sale_Price_of_Bulldozers/notebook.ipynb) in Colab and run the code cells
 - Use the trained model to make predictions on new data
 - Extract feature importance to understand the factors influencing the sale price of bulldozers
 <!-- - Save the trained model for future use -->
 <!-- - Modify the code as needed to fit your specific use case or dataset -->
 
 ## Data:
-- The dataset is downloaded from Kaggle and contains information about bulldozer sales, including features such as year, make, model, and various specifications (Link: https://www.kaggle.com/c/bluebook-for-bulldozers/data).
+- The dataset is downloaded from Kaggle [Blue Book for Bulldozers](https://www.kaggle.com/c/bluebook-for-bulldozers/data), and contains information about bulldozer sales, including features such as year, make, model, and various specifications .
 
 ## Outcomes:
 - A trained model capable of predicting bulldozer sale prices based on input features
@@ -46,10 +46,10 @@
 <p align="center"><b>Top of feature importance</b></p>
 
 ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png)
+<br>
 
 <!-- <br>
 <div align="center">
     <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png" style="width:450px; height:auto; min-width:35%">
 </div>
 <br> -->
-<br>

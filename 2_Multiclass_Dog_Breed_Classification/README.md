@@ -24,12 +24,12 @@
 
 
 ## Usages:
-- Open in Colab and run the [code](https://colab.research.google.com/github/OCR-tech/project-DataScience/blob/main/2_Multiclass_Dog_Breed_Classification/notebook.ipynb)
+- Open [notebook](https://colab.research.google.com/github/OCR-tech/project-DataScience/blob/main/2_Multiclass_Dog_Breed_Classification/notebook.ipynb) in Colab and run the code cells
 - Use the trained model to make predictions on new data
 - Save the trained model for future use
 
 ## Data:
-- The dataset is downloaded from Kaggle and contains information about dog breeds, including images and labels for 120 different breeds (Link: https://www.kaggle.com/c/dog-breed-identification/data).
+- The dataset is downloaded from Kaggle [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data), and contains information about dog breeds, including images and labels for 120 different breeds.
 
 ## Outcomes:
 - A trained model capable of predicting dog breeds based on input images.
