@@ -24,7 +24,7 @@
 
 
 ## Usages:
-- Open [notebook](https://colab.research.google.com/github/OCR-tech/project-DataScience/blob/main/2_Multiclass_Dog_Breed_Classification/notebook.ipynb) in Colab and run the code cells
+- Open [notebook](https://colab.research.google.com/github/OCR-tech/project-DataScience/blob/main/3_Multiclass_Dog_Breed_Classification/notebook.ipynb) in Colab and run the code cells
 - Use the trained model to make predictions on new data
 - Save the trained model for future use
 
