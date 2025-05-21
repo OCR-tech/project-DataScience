@@ -18,7 +18,7 @@
     - Train a model using trained dataset
 4. Model Evaluation
     - Make predictions on validation data using a trained model
-5. Training a big dog model with full data
+5. Training a model with full data
 6. Deployment
     - Make predictions on test dataset and custom images
 

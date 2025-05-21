@@ -27,7 +27,7 @@
 - Save the trained model for future use
 
 ## Data:
-- The dataset is downloaded from Kaggle [Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci), and contains information about heart disease patients, including various health metrics.
+- The dataset is downloaded from Kaggle [Heart Disease UCI](https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-dataset), and contains information about heart disease patients, including various health metrics.
 
 ## Outcomes:
 - A trained model capable of predicting heart disease presence based on patient health metrics.
