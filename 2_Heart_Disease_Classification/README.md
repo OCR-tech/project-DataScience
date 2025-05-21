@@ -35,12 +35,12 @@
 <div align="center">
   <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds2a.png"/>
 </div>
-<br>
+<br><br>
 <p align="center"><b>Comparison of cross-validated classification metrics</b></p>
 <div align="center">
   <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds2b.png"/>
 </div>
-<br>
+<br><br>
 <p align="center"><b>Feature Importance</b></p>
 <div align="center">
   <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds2c.png"/>
