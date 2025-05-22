@@ -44,13 +44,4 @@
 <div align="center">
   <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png"/>
 </div>
-<<<<<<< HEAD
-<!-- ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png) -->
-=======
-<br><br>
-<p align="center"><b>Top of feature importance</b></p>
-<div align="center">
-  <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1b.png"/>
-</div>
->>>>>>> 5cd9f58 (update files)
 <br>
