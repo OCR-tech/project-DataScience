@@ -40,8 +40,13 @@
 - Insights into feature importance, helping to identify key factors influencing sale prices
 <br><br>
 
-<p align="center"><b>Prediction the bulldozer sale price</b></p>
+<p align="center"><b>Prediction the sale price of bulldozers</b></p>
 <div align="center">
   <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1a.png"/>
+</div>
+<br><br>
+<p align="center"><b>Top of feature importance</b></p>
+<div align="center">
+  <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ds1b.png"/>
 </div>
 <br>
