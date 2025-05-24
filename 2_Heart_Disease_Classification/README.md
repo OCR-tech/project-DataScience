@@ -20,9 +20,9 @@
 5. Experimentation
     - Evaluation metric
 
-## Usages:
+<!-- ## Usages:
 - Open notebook in Colab and run the code cells
-- Use the trained model to make predictions on new data
+- Use the trained model to make predictions on new data -->
 
 ## Data:
 - The dataset is downloaded from [file](heart-disease.csv) and contains information about heart disease patients, including various health metrics.

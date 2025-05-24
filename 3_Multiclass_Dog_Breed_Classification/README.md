@@ -21,10 +21,10 @@
 6. Deployment
     - Make predictions on test dataset and custom images
 
-## Usages:
+<!-- ## Usages:
 - Open notebook in Colab and run the code cells
 - Use the trained model to make predictions on new data
-- Save the trained model for future use
+- Save the trained model for future use -->
 
 ## Data:
 - The dataset is downloaded from Kaggle [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data), and contains information about dog breeds, including images and labels for 120 different breeds.

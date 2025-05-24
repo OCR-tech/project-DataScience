@@ -27,10 +27,10 @@
     - Make predictions on test data
     - Extract Feature Importance
 
-## Usages:
+<!-- ## Usages:
 - Open notebook in Colab and run the code cells
 - Use the trained model to make predictions on new data
-- Extract feature importance to understand the factors influencing the sale price of bulldozers
+- Extract feature importance to understand the factors influencing the sale price of bulldozers -->
 
 ## Data:
 - The dataset is downloaded from Kaggle [Blue Book for Bulldozers](https://www.kaggle.com/c/bluebook-for-bulldozers/data), and contains information about bulldozer sales, including features such as year, make, model, and various specifications.
